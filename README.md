@@ -5,3 +5,5 @@ cross platform terminal application for chatsonic
 2 the below pyhton libraries must be installed on your your instance 
     -requests
     -json
+ python3 chatsonic.py
+ python chatsonic.py
